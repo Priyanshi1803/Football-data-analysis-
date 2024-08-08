@@ -32,7 +32,7 @@ In order to quantify opponent information, the "opp_code" column is introduced. 
 Recognizing the potential influence of the playing venue on team performance, the "venue_code" column has been created. This column encodes the venue information, with a specific focus on capturing the notion of home field advantage.
 
 
-Part III: Data Preprocessing: Model Evaluation
+PART 3 : Data Preprocessing: Model Evaluation
 1. Feature Selection:
 The predictor variables for the model are chosen as ["venue_code", "opp_code", "hour", “day_code”
 2. Model Evaluation:
